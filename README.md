@@ -1,2 +1,2 @@
 # Gshare-Branch-Predictor
-Gshare branch predictor for computer archetecture
+Gshare branch predictor for computer architecture
